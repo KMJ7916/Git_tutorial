@@ -19,4 +19,8 @@
 #### 클론
 #### 커밋
 #### 푸쉬
-## test
+#### 레포지토리 이름 바꾸려면
+###### git 레포지토리 이름 바꾸고(rename)
+###### git remote -v (지금 경로 확인)
+###### git remote set-url origin (새로운 경로)
+###### git remote -v (지금 경로 확인)
