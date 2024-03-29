@@ -1,21 +1,21 @@
 # Git tutorial
-######git상단에서 repositroy 만들기
-######초록색 new
-######이름입력
-######선택, python(readme파일), apache
-######코드 주소 복사
-######cmd에서 workspace(작업할 폴더)
-######-git clone 내 주소(복사한 주소)
-######이제 작업시작(vscode 열기)
-######파일 편집하고 파일 이동
-######git status 빨간색 (아직 올리지 않았음 체크해야함/git add, git commit)
+###### git상단에서 repositroy 만들기
+###### 초록색 new
+###### 이름입력
+###### 선택, python(readme파일), apache
+###### 코드 주소 복사
+###### cmd에서 workspace(작업할 폴더)
+###### -git clone 내 주소(복사한 주소)
+###### 이제 작업시작(vscode 열기)
+###### 파일 편집하고 파일 이동
+###### git status 빨간색 (아직 올리지 않았음 체크해야함/git add, git commit)
 
-######git add . -> 올린다, 관리한다 .(all), "파일이름"(선택)
-######하고 push하면 아무것도 안 뜸(push = git에 올리는 것)
-######commit 하고 push 해야함
-######commit -m "이거 무슨 내용이야"
-######ex)commit -m " add commit"
+###### git add . -> 올린다, 관리한다 .(all), "파일이름"(선택)
+###### 하고 push하면 아무것도 안 뜸(push = git에 올리는 것)
+###### commit 하고 push 해야함
+###### commit -m "이거 무슨 내용이야"
+###### ex)commit -m " add commit"
 
-# 클론
-# 커밋
-# 푸쉬
+#### 클론
+#### 커밋
+#### 푸쉬
